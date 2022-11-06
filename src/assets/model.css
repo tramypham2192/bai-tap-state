@@ -1,0 +1,13 @@
+.glasses {
+    position: absolute;
+    bottom: -500px;
+    right: 70.25%;
+}
+
+.glasses img {
+    width: 250px;
+}
+
+body {
+    background-image: url(../../public/img/background.jpg);
+}
